@@ -1,5 +1,37 @@
-# Compiled
-*.elc
+# Package Files #
+*.war
 
-# Packaging
-.cask
+# Built application files
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+*.iml
+*.log
+
+classes/
+build/
+out/
+bin/
+gen/
+Servers/
+
+.gradle/
+gradle/
+
+.idea/
+
+.classpath
+.project
+.mymetadata
+.settings/
+.metadata/
+.myumldata
+.tern-project
+local.properties
+
